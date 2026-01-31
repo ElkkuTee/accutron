@@ -8,7 +8,7 @@ export default function Header() {
       <div className="header-inner container">
         <div className="brand">
           <img src={logo} alt="Accutron logo" className="logo" />
-          <div className="brand-text">accutron.eu</div>
+          <div className="brand-text">.eu</div>
         </div>
         <nav className="nav">
           <NavLink to="/" className={({isActive})=>isActive? 'active':''}>Home</NavLink>
