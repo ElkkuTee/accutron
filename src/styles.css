@@ -17,7 +17,7 @@ body{
 .site-header{border-bottom:1px solid #e7e7e7}
 .header-inner{display:flex;align-items:center;justify-content:space-between;padding:18px 0}
 .brand{display:flex;align-items:center;gap:12px}
-.logo{height:40px;width:auto}
+.logo{height:70px;width:auto}
 .brand-text{font-weight:600;color:var(--muted)}
 .nav a{margin-left:18px;color:var(--muted);text-decoration:none}
 .nav a.active{color:var(--accent);font-weight:600}
