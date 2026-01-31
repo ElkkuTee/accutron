@@ -2,7 +2,6 @@ import React from 'react'
 import { Helmet } from 'react-helmet-async'
 
 const externalLinks = [
-  { title: 'Anello Photonics - Fiber Optic Gyroscope Technology', url: 'https://www.anellophotonics.com' },
   { title: 'Elcoflex', url: 'https://www.elcoflex.com' },
   { title: 'Soundmix', url: 'https://www.soundmix.fi' }
 ]
