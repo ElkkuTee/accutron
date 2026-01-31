@@ -5,6 +5,7 @@
   ],
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/.*", "dest": "/index.html" }
+    { "src": "/.*", "dest": "/index.html" },
+    { "src": "/IGM24.pdf", "dest": "/src/assets/IGM24.pdf" }
   ]
 }

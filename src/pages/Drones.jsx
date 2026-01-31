@@ -42,7 +42,7 @@ export default function Drones(){
         <li>Effective against maneuvering and slow-moving targets.</li>
         <li>Robust performance in GPS-denied environments.</li>
       </ul>
-      <li key="IGM24.pdf"><a href="/links" target="_blank" rel="noopener noreferrer">IGM24.pdf</a></li>
+      <p><a href="/IGM24.pdf" target="_blank" rel="noopener noreferrer">IGM24.pdf</a></p>
     </section>
   )
 }
