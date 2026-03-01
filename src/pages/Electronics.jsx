@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async'
 
 export default function Electronics(){
   return (
-    <section>
+    <section style={{ maxWidth: '800px', margin: '0 auto', padding: '20px' }}>
       <Helmet>
         <title>Electronics Design — Accutron — accutron.eu</title>
         <meta name="description" content="Accutron electronics design for sensors, CPUs, inertial systems and high-speed control. accutron.eu" />

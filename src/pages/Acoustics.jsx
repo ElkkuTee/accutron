@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async'
 
 export default function Acoustics(){
   return (
-    <section>
+    <section style={{ maxWidth: '800px', margin: '0 auto', padding: '20px' }}>
       <Helmet>
         <title>Acoustics Design — Accutron — accutron.eu</title>
         <meta name="description" content="Accutron acoustics engineering for precision measurement, signal processing, and studio-grade systems. accutron.eu" />

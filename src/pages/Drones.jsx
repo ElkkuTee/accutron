@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async'
 
 export default function Drones(){
   return (
-    <section>
+    <section style={{ maxWidth: '800px', margin: '0 auto', padding: '20px' }}>
       <Helmet>
         <title>Drones — Accutron — accutron.eu</title>
         <meta name="description" content="Accutron drone guidance and swarm defence systems. accutron.eu" />

@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet-async'
 
 export default function Home(){
   return (
-    <section>
+    <section style={{ maxWidth: '800px', margin: '0 auto', padding: '20px' }}>
       <Helmet>
         <title>Home — Accutron — accutron.eu</title>
         <meta name="description" content="Accutron: advanced guidance and control technology using gyroscopic high angular momentum for extreme maneuverability. accutron.eu" />
