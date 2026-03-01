@@ -11,6 +11,15 @@ export default function Home(){
       <h1>Inertia Guided Munition — Smart Bullet Concept</h1>
       <p className="lead">Accutron develops guidance and control systems based on kinetic gyroscopes with high angular momentum. The 'smart bullet' concept provides inertial-based precision targeting independent of GPS, radar guidance, or external control links.</p>
 
+      <a 
+        href="/Accutron.pdf" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style={{ display: 'inline-block', backgroundColor: '#e0e0e0', color: '#333', padding: '10px 20px', borderRadius: '20px', textDecoration: 'none', marginBottom: '20px', fontWeight: 'bold' }}
+      >
+        Read more
+      </a>
+
       <h2>Theory of Gyroscopes</h2>
       <p>Gyroscopes have been known for thousands of years, with their mathematical basis understood for over 200 years. Despite incomplete explanation in classical physics, their behavior is well-characterized by Newton's Laws. Gravity has no effect on gyroscopic forces, enabling operation in space and the upper atmosphere. Recent developments in gyroscope manufacturing—fiber optic, micromechanics, and silicon sensors—have dramatically reduced sensor size and expanded applications beyond traditional navigation to precision targeting systems.</p>
 
