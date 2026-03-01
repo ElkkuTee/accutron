@@ -14,7 +14,7 @@ export default function Home(){
         href="/Accutron.pdf" 
         target="_blank" 
         rel="noopener noreferrer" 
-        style={{ display: 'inline-block', backgroundColor: '#303030', color: '#ededed', padding: '10px 20px', borderRadius: '20px', textDecoration: 'none', margin: '20px 0', fontWeight: 'bold' }}
+        style={{ display: 'inline-block', backgroundColor: '#3e3e3e', color: '#ededed', padding: '10px 20px', borderRadius: '20px', textDecoration: 'none', margin: '20px 0', fontWeight: 'bold' }}
       >
         Read more
       </a>

@@ -3,7 +3,9 @@ import { Helmet } from 'react-helmet-async'
 
 const externalLinks = [
   { title: 'Elcoflex', url: 'https://www.elcoflex.com' },
-  { title: 'Soundmix', url: 'https://www.soundmix.fi' }
+  { title: 'Soundmix', url: 'https://www.soundmix.fi' },
+  { title: 'Accutron.pdf', url: '/Accutron.pdf' },
+  { title: 'IGM24.pdf', url: '/IGM24.pdf' }
 ]
 
 export default function Links(){
